@@ -2,7 +2,7 @@ import React from "react"
 import ReactDOM from "react-dom/client"
 
 const Logo = () => {
-    return <img src="https://img.icons8.com/?size=100&id=dcNXeTC0SjGX&format=png&color=000000" id="logo"/>
+    return <img src="https://img.icons8.com/?size=100&id=dcNXeTC0SjGX&format=png&color=000000" id="logo" />
 }
 
 const SearchBar = () => {
@@ -10,7 +10,7 @@ const SearchBar = () => {
 }
 
 const UserIcon = () => {
-
+    return <img src="https://img.icons8.com/?size=100&id=2yC9SZKcXDdX&format=png&color=000000" id="user-icon" />
 }
 
 const NavBar = () => {
